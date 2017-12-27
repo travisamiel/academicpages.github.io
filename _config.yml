@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Travis Amiel / Professional Website"
+title                    : "TravisAmiel.com"
 title_separator          : "-"
 name                     : &name "Travis Amiel"
 description              : &description "Theatre Artist"
@@ -95,9 +95,9 @@ author:
   github           : "travisamiel"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "heytravistravis"
   lastfm           :
-  linkedin         :
+  linkedin         : "travisamiel"
   orcid            :
   pinterest        :
   soundcloud       :
@@ -109,7 +109,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://en.wikipedia.org/wiki/Special:Contributions/TravisAmiel"
+  wikipedia        :
 
 
 # Reading Files

@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is my website!
+Hello, my name is Travis Amiel. I'm a senior theatre studies major at Emerson College in Boston.
+
+I mostly make theatre.
