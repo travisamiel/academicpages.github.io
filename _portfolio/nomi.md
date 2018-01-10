@@ -8,7 +8,7 @@ Performed at the Charlestown Working Theatre, in Theatre on Fire's Cabinet of Cu
 
 Cast:
 
-- Aaron Drill (pictured above as Klaus Nomi)
+- Aaron Drill
 - James La Bella
 - Emily White
 - Roberto Williams
