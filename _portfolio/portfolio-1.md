@@ -1,6 +1,6 @@
 ---
 title: "Nomi"
-excerpt: "Staged May 2017, a stage work based on the life of Klaus Nomi<br/><img src='/images/nomi/nomi-cover.jpg'>"
+excerpt: "Staged May 2017, a stage work based on the life of Klaus Nomi<br/><img src='/images/nomi/Aaron during Softly Awakes My Heart.JPG'>"
 collection: portfolio
 ---
 
